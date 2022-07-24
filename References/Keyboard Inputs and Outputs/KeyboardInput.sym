@@ -1,0 +1,10 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	A                       3009
+//	ASCII                   3011
+//	B                       300A
+//	C                       300E
+//	D                       300F
+//	NEGASCII                3012
+//	NEXT_TASK               300B
+//	START                   3002

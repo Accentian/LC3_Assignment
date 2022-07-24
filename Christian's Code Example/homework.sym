@@ -1,0 +1,17 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	A                       3025
+//	B                       3026
+//	ECHOa                   3013
+//	ECHOb                   3022
+//	GETINa                  3008
+//	GETINb                  3017
+//	RESULT                  3027
+//	STOREINa                300E
+//	STOREINb                301D
+//	aSTRHead                3029
+//	aSTRPtr                 3028
+//	bSTRHead                302B
+//	bSTRPtr                 302A
+//	prompta                 302C
+//	promptb                 3081

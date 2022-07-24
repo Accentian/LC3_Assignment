@@ -1,0 +1,7 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	NEWLINE                 3009
+//	PROMPT                  300A
+//	STORE_x4000             3006
+//	STORE_x4001             3007
+//	STORE_x5000             3008

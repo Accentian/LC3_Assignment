@@ -1,0 +1,7 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASCII                   3012
+//	GETCHAR                 300B
+//	OUTPUT                  300E
+//	PTR                     3013
+//	TEST                    3004
